@@ -1,2 +1,3 @@
 # hello-world
-it is me
+this is me
+I am a student in school and I want to learn programming.
